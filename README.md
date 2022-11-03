@@ -4,7 +4,9 @@ My task was to create a Note Taker application that can be used to write and sav
 
 ## Deployed Link
 
-[HEROKU app here](link here)
+[HEROKU app here](https://rocky-plains-46214.herokuapp.com/)
+
+- Please note, everything works on the local host and new notes CAN be saved and posted. For some reason when I deployed to heroku that function stopped working.
 
 ## Table of Contents
 
@@ -32,4 +34,4 @@ Clone the repository and install all necessary dependencies. To run the applicat
 
 ## Screen shots
 
-![Shot-1](img here)
+![screenshot](./note%20taker.png)
